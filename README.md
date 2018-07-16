@@ -1,2 +1,3 @@
-# livecs
-直播的实例代码
+Android NDK开发之旅35--NDK-做个直播SDK源码
+
+动脑视频：http://www.iqiyi.com/w_19ru838x4t.html
